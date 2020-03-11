@@ -1,4 +1,4 @@
-<a href="https://www.bigclown.com/"><img src="https://bigclown.sirv.com/logo.png" width="200" alt="BigClown Logo" align="right"></a>
+<a href="https://www.hardwario.com/"><img src="https://www.hardwario.com/ci/assets/hw-logo.svg" width="200" alt="HARDWARIO Logo" align="right"></a>
 
 # Firmware for bcf-radio-led-strip-sound-level-meter
 
@@ -9,7 +9,7 @@
 
 See the project documentation on this link:
 
-**https://www.bigclown.com/doc/projects/radio-smart-led-strip/**
+**https://developers.hardwario.com/projects/radio-smart-led-strip/**
 
 ## License
 
