@@ -2,7 +2,7 @@
 
 # Firmware for bcf-radio-led-strip-sound-level-meter
 
-[![Travis](https://img.shields.io/travis/bigclownprojects/bcf-radio-led-strip-sound-level-meter/master.svg)](https://travis-ci.org/bigclownprojects/bcf-radio-led-strip-sound-level-meter)
+[![build](https://github.com/hardwario/twr-radio-led-strip-sound-level-meter/actions/workflows/main.yml/badge.svg)](https://github.com/hardwario/twr-radio-led-strip-sound-level-meter/actions/workflows/main.yml)
 [![Release](https://img.shields.io/github/release/bigclownprojects/bcf-radio-led-strip-sound-level-meter.svg)](https://github.com/bigclownprojects/bcf-radio-led-strip-sound-level-meter/releases)
 [![License](https://img.shields.io/github/license/bigclownprojects/bcf-radio-led-strip-sound-level-meter.svg)](https://github.com/bigclownprojects/bcf-radio-led-strip-sound-level-meter/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/bigclownprojects.svg?style=social&label=Follow)](https://twitter.com/bigclownprojects)
