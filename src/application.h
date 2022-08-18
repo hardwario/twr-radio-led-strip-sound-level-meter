@@ -1,10 +1,6 @@
 #ifndef _APPLICATION_H
 #define _APPLICATION_H
 
-#ifndef VERSION
-#define VERSION "vdev"
-#endif
-
 #ifndef LED_STRIP_COUNT
 #define LED_STRIP_COUNT 144
 #endif
@@ -19,7 +15,6 @@
 
 #include <bcl.h>
 #include <twr.h>
-
 
 typedef struct
 {

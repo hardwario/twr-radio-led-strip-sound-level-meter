@@ -1,6 +1,6 @@
 <a href="https://www.hardwario.com/"><img src="https://www.hardwario.com/ci/assets/hw-logo.svg" width="200" alt="HARDWARIO Logo" align="right"></a>
 
-# Firmware for bcf-radio-led-strip-sound-level-meter
+# Firmware for twr-radio-led-strip-sound-level-meter
 
 [![build](https://github.com/hardwario/twr-radio-led-strip-sound-level-meter/actions/workflows/main.yml/badge.svg)](https://github.com/hardwario/twr-radio-led-strip-sound-level-meter/actions/workflows/main.yml)
 [![Release](https://img.shields.io/github/release/bigclownprojects/bcf-radio-led-strip-sound-level-meter.svg)](https://github.com/bigclownprojects/bcf-radio-led-strip-sound-level-meter/releases)

@@ -192,7 +192,7 @@ void application_init(void)
 
     twr_data_stream_init(&stream, 1, &stream_buffer);
 
-    twr_radio_pairing_request("noise", VERSION);
+    twr_radio_pairing_request("noise", FW_VERSION);
 
     twr_led_pulse(&led, 2000);
 }
